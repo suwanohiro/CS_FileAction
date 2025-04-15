@@ -7,7 +7,7 @@
 
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<PackageId>FileAction</PackageId>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<Authors>suwanohiro</Authors>
 		<Description>A class that can read and write text files using relative paths.</Description>
 		<PackageTags>TextFile;FileAction</PackageTags>
